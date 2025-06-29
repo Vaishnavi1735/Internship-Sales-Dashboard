@@ -35,4 +35,4 @@ This project shows my skills in:
 ---
 
 ## 📷 Final Dashboard Preview:
-![Dashboard Screenshot](Internship_sales_data_dashboard.png)
+![Dashboard Screenshot](https://github.com/Vaishnavi1735/Internship-Sales-Dashboard/blob/main/Internship_sales_data%20%20dasboard.png.png)
