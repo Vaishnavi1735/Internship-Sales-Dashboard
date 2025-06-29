@@ -10,7 +10,7 @@ This is a **Sales Data Dashboard** I created during my internship using **Google
 
 ## 🗂️ Project Files:
 - `Sales_Data.xlsx` → Raw sales data used for analysis.
-- `Internship_Sales_Dashboard.png` → Screenshot of the final dashboard.
+- `Internship_sales_data  dasboard.png` → Screenshot of the final dashboard.
 
 ## 🛠️ Tools Used:
 - Google Sheets
